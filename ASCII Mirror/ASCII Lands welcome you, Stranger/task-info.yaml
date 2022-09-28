@@ -59,21 +59,9 @@ files:
         }
     }
   learner_created: false
-- name: test/example1.txt
-  visible: true
-  learner_created: true
-- name: test/example2.txt
-  visible: true
-  learner_created: true
-- name: test/example5.txt
-  visible: true
-  learner_created: true
-- name: test/example4.txt
-  visible: true
-  learner_created: true
-- name: test/example3.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/20315#comment
 status: Solved
-record: 6
+feedback:
+  message: Congratulations!
+  time: Sun, 25 Sep 2022 10:24:10 UTC
+record: 1

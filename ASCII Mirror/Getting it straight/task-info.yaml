@@ -215,5 +215,9 @@ files:
     Hello
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/20319#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Wed, 28 Sep 2022 17:04:36 UTC
 record: -1

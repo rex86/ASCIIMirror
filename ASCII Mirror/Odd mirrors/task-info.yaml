@@ -201,7 +201,4 @@ files:
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/20318#comment
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Tue, 27 Sep 2022 10:51:06 UTC
-record: 7
+record: 8
